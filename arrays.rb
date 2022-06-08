@@ -1,4 +1,5 @@
-# Arrays
+# Arrays Practice
+
 
 teams = ["cubs", "bears", "sox", "hawks"]
 ages = [32, 64, 23, 68]
