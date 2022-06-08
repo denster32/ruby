@@ -31,3 +31,10 @@ teams.unshift
 ages.unshift
 temps.unshift
 submitted.unshift
+
+# print the first element in each Array
+# the index positions for theses arrays are numbered from zero to three
+puts teams[0]
+puts ages[0]
+puts temps[0]
+puts submitted[0]
