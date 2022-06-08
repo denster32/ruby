@@ -38,3 +38,10 @@ puts teams[0]
 puts ages[0]
 puts temps[0]
 puts submitted[0]
+
+# this drop method removes the first three elements in each array
+# print the last element in each Array
+puts teams.drop(3)
+puts ages.drop(3)
+puts temps.drop(3)
+puts submitted.drop(3)
